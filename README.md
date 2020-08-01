@@ -1,5 +1,5 @@
 # covid19_cxr_detection
-DL based solution for [COVID19Action-Radiology-CXR](https://ieee-dataport.org/open-access/covid19action-radiology-cxr)<br>
+DL based solution for [COVID19Action-Radiology-CXR](https://ieee-dataport.org/open-access/covid19action-radiology-cxr) i.e. covid-19 detection using chest X-ray images.<br>
 Head over to the [`ps.txt`](https://github.com/Raghwendra-Dey/covid19_cxr_detection/blob/master/ps.txt) to read the problem statement.<br>
 [`resnet_transfer.ipynb`](https://github.com/Raghwendra-Dey/covid19_cxr_detection/blob/master/resnet_transfer.ipynb) is the model which uses `resnet-18` pretrained model for transfer learning.<br>
 [`conv-net.ipynb`](https://github.com/Raghwendra-Dey/covid19_cxr_detection/blob/master/conv-net.ipynb) is the model which uses `Vanilla Conv-net` model with self-built architecture for training.<br>
